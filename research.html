@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <head>
+    <link rel="stylesheet" href="stylesheet/main.css">
+    <title>Sarang: Research </title>
+  </head>
+
+  <div id="navbar">
+    <a href="index.html">Home</a>
+    <a href="teaching.html">Teaching</a>
+    <a class="active" href="research.html">Research</a>
+    <a href="publications.html">Publications</a>
+    <a href="resources.html">Resources</a>
+    <a href="group.html">Group Members</a>
+  </div>
+
+  <div class="content">
+    <!-- <h3>Sticky Navigation Example</h3> -->
+
+    <h3> Electromagnetic waves in complex media</h3>
+    <h3> Reconfigurable microwave components </h3>
+    <h3> Optical microscopy & imaging techniques </h3>
+    <!-- <h3> Photonics: light matter interactions  & topology</h3> -->
+
+
+
+
+  </div>
+
+  <script>
+  window.onscroll = function() {myFunction()};
+
+  var navbar = document.getElementById("navbar");
+  var sticky = navbar.offsetTop;
+
+  function myFunction() {
+    if (window.pageYOffset >= sticky) {
+      navbar.classList.add("sticky")
+    } else {
+      navbar.classList.remove("sticky");
+    }
+  }
+  </script>
+
+  </body>
+</html>
