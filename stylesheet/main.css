@@ -5,6 +5,14 @@ body {
 }
 
 
+#img_full {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: auto;
+}
+
 #affiliation{
   width: 70%;
   float: left;
