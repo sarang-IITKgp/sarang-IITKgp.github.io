@@ -13,6 +13,18 @@ body {
     height: auto;
 }
 
+#img_small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+figcaption{
+  text-align: center;
+}
+
 #affiliation{
   width: 70%;
   float: left;
