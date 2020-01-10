@@ -5,6 +5,11 @@ body {
 }
 
 
+#club{
+  background-color: #ddd;
+  color: black;
+}
+
 #img_full {
     display: block;
     margin-left: auto;
