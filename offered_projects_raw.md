@@ -12,6 +12,9 @@ _A rough estimate of the time I have invested in setting up this page should giv
 
 ----------------------------
 
+## General research interests
+
+
 If you are still reading and are still interested, I have a wide spectrum of projects ranging from purely theoretical to purely applied topics. Whether you are fascinated by fundamental concepts or more inclined towards experimental work, there is something on which we might work together. 
 
 My broad research interest lies at the interface of optical physics and communication technologies. I am interested in investigating new fundamental concepts in wave-matter interactions, explore their technologies implications and develop engineering applications. These steps are depicted in the figure below. 
@@ -20,7 +23,10 @@ My broad research interest lies at the interface of optical physics and communic
 
 <img src="./files/general_research_goal.png" alt="Broad reseach goal" width="800" >
 
-The projects that I am offering lie on the above research spectrum. However, individual projects are generally not spread throughout the spectrum. <span style="color:green">The **predominant scope** of each project is a subset of the spectrum and is **indicated by a green bar for each project**.</span>
+The projects that I am offering lie on the above research spectrum. However, individual projects are generally not spread throughout the spectrum. <span style="color:green">The **predominant scope** of each project is a subset of the spectrum and is **indicated by a green bar for each project**.</span> Ordering of the projects below is arbitrary. 
+
+Apart from the following, if you have any other ideas in similar areas that you would like to work on, then I am always open for discussions. Just drop me an email. 
+
 
 ----------------------------
 
@@ -56,7 +62,7 @@ The projects that I am offering lie on the above research spectrum. However, ind
 
 - Level: M.Tech.
 
-<img src="./files/project_area_technology+applications.png" alt="Dominant scope of the project" width="800" >
+<img src="./files/project_area_theory+technology.png" alt="Dominant scope of the project" width="800" >
 
 ----------------------------
 
@@ -110,10 +116,20 @@ _EM-wave propagation in time-varying medium, moving medium, space-time modulated
 
 - Preferred specialization: RFME
 
-- Level: M.Tech. 
+- Level: M.Tech.; _Possibly M.Tech.+Ph.D._
 
 <img src="./files/project_area_theory.png" alt="Dominant scope of the project" width="800" >
 
+
+## 9. Time-varying non-reciprocal components
+- Preferred specialization: RFME
+
+- Level: M.Tech. 
+
+<img src="./files/project_area_theory+technology.png" alt="Dominant scope of the project" width="800" >
+
+
+
 -----------------------------
 
-Apart from these if you have any other ideas in similar areas that you would like to work on, then I am always open for discussions. Just drop me an email. 
+
