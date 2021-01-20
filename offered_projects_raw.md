@@ -1,6 +1,6 @@
 ## Microwave-photonics and wave-matter interactions
 
-I am looking for motivated and hardworking students to work with me on interesting and challenging research projects. This page consists of a list of projects in which I am actively looking for students at M.Tech and M.Tech+Ph.D. level. Before proceeding to the offered projects, please carefully read the following expectations from prospective students. 
+I am looking for motivated and hardworking students to work with me on interesting and challenging research projects. This page consists of a list of projects in which I am actively looking for students at M.Tech.+Ph.D. and M.Tech. level. Before proceeding to the offered projects, please carefully read the following expectations from prospective students. 
 
 1. At least **40 hours of work per week** is expected after the completion of course work.
 2. You will have to **submit one weekly report every week** and **one monthly** report every month. These reports must be in a prescribed format and prepared strictly in **LaTeX only**. 
@@ -28,9 +28,24 @@ The projects that I am offering lie on the above research spectrum. However, ind
 Apart from the following, if you have any other ideas in similar areas that you would like to work on, then I am always open for discussions. Just drop me an email. 
 
 
+
 ----------------------------
 
-## 1. Photonic reconfiguration of microwave devices based on photoconductivity.
+## 1. Time-varying non-reciprocal components.
+
+
+- Preferred specialization: RFME
+
+- Level: M.Tech., M.Tech.+Ph.D.
+
+
+
+<img src="./files/project_area_theory+technology+applications.png" alt="Dominant scope of the project" width="800" >
+
+
+----------------------------
+
+## 2. Photonic reconfiguration of microwave devices based on photoconductivity.
 
 - Preferred specialization: RFME
 
@@ -42,7 +57,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 2. Photonic reconfiguration of microwave devices using phase-change materials. 
+## 3. Photonic reconfiguration of microwave devices using phase-change materials. 
 
 - Preferred specialization: RFME
 
@@ -52,7 +67,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 3. Full wave EM and circuit modelling of coupled interconnects.
+## 4. Full wave EM and circuit modelling of coupled interconnects.
 
 - Preferred specialization: 
 	- RFME
@@ -66,7 +81,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 4. Application of magnonic nano-conduits for interconnects. 
+## 5. Application of magnonic nano-conduits for interconnects. 
 
 - Preferred specialization: 
 	- RFME
@@ -80,7 +95,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 5. Novel devices based on photonic topology of gyrotropic materials. 
+## 6. Novel devices based on photonic topology of gyrotropic materials. 
 
 - Preferred specialization: RFME
 
@@ -90,7 +105,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 6. Topology controlled Cherenkov radiation in complex medium.
+## 7. Topology controlled Cherenkov radiation in complex medium.
 
 - Preferred specialization: RFME
 
@@ -100,7 +115,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 
 ----------------------------
 
-## 7. Reflection-less/absorptive filters. 
+## 8. Reflection-less/absorptive filters. 
 
 - Preferred specialization: RFME
 
@@ -111,7 +126,7 @@ Apart from the following, if you have any other ideas in similar areas that you 
 ----------------------------
 
 
-## 8. EM-wave interaction with non-stationary medium.
+## 9. EM-wave interaction with non-stationary medium.
 _EM-wave propagation in time-varying medium, moving medium, space-time modulated medium._
 
 - Preferred specialization: RFME
@@ -121,7 +136,7 @@ _EM-wave propagation in time-varying medium, moving medium, space-time modulated
 <img src="./files/project_area_theory.png" alt="Dominant scope of the project" width="800" >
 
 
-## 9. Time-varying non-reciprocal components
+## 10. Time-varying non-reciprocal components
 - Preferred specialization: RFME
 
 - Level: M.Tech. 
