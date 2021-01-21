@@ -6,9 +6,9 @@ I am looking for motivated and hardworking students to work with me on interesti
 2. You will have to **submit one weekly report every week** and **one monthly** report every month. These reports must be in a prescribed format and prepared strictly in **LaTeX only**. 
 3. There will be at least one project meeting every week (based on your weekly report) to discuss the updates. 
 	- I commit to give you typed comments and suggestions every week based on your report. 
-4. If you don't put in enough sincere efforts (_not necessarily the results_), a bad grade is guaranteed in Project-I evaluation. If your efforts (_not necessarily the results_) are not up to the expectations after fourth semester, an extension in M.Tech. project is likely, irrespective of your placement and joining date. However, if you have followed #1 and #2 above you need not worry. 
+4. If you don't put in enough sincere efforts (_not necessarily the results_), a bad grade is guaranteed in Project-I evaluation. If your efforts (_not necessarily the results_) are not up to the expectations after fourth semester, an extension in M.Tech. project is likely, irrespective of your placement and joining date. However, if you have followed #1 and #2 above, you need not worry. 
 
-_A rough estimate of the time I have invested in setting up this page should give you an indication of the seriousness of the above statements._
+A rough estimate of the time I have invested in setting up this page should give you an indication of the seriousness of the above statements._
 
 ----------------------------
 
