@@ -17,7 +17,7 @@ _A rough estimate of the time I have invested in setting up this page should giv
 
 If you are still interested, I have a wide spectrum of projects ranging from purely theoretical to purely applied topics. Whether you are fascinated by fundamental concepts or more inclined towards experimental work, there is something on which we may work together. 
 
-My broad research interest lies at the interface of optical physics and communication technologies. I am interested in investigating new fundamental concepts in wave-matter interactions, explore their technologies implications and develop engineering applications. These steps are depicted in the figure below. 
+My broad research interest lies at the interface of optical physics and communication technologies. I am interested in investigating new fundamental concepts in wave-matter interactions, explore their technological implications and develop engineering applications. These steps are depicted in the figure below. 
 
 
 
