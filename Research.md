@@ -11,10 +11,15 @@ My current research interests are:
 
 _**Page is currently under 'construction'**_
 
+Details of the current projects will be posted here.  
+
+![[Pasted image 20250707183352.png]]
+
+
 ### Active areas of research
 
 
-### Publications
+# Publications
 ### Journal Papers
 
 1. P. Shekhar, Sarang Pendharker, D. Vick, M. Malac, Z. Jacob, "Fast electrons interacting with a natural hyperbolic medium: bismuth telluride," Optics Express, vol. 27, no. 5, pp. 6970-6975, 2019.
