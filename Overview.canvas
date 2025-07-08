@@ -3,30 +3,40 @@
 		{
 			"id":"0e05057a9c1925a8",
 			"type":"text",
-			"text":"Electromagnetic wave interactions",
-			"styleAttributes":{},
+			"text":"Electromagnetic wave interactions with medium and structure",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
 			"x":-120,
-			"y":-200,
+			"y":-320,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"411e934728a48db9",
+			"type":"text",
+			"text":"Gyrotropy governed Topology of isofrequency surfaces ",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":120,
+			"width":260,
+			"height":87
+		},
+		{
+			"id":"97d0e854ec22cd39",
+			"type":"text",
+			"text":"Hyperbolic medium",
+			"styleAttributes":{},
+			"x":-390,
+			"y":160,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"b8cd0b024cfa3320",
+			"id":"1733e00474518172",
 			"type":"text",
-			"text":"Classical",
+			"text":"Waves in gyrotropic medium",
 			"styleAttributes":{},
-			"x":-320,
-			"y":0,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"570f5ce0c05477f3",
-			"type":"text",
-			"text":"Quantum",
-			"styleAttributes":{},
-			"x":80,
-			"y":0,
+			"x":-860,
+			"y":-20,
 			"width":260,
 			"height":60
 		},
@@ -34,44 +44,392 @@
 			"id":"ff3500211fcd83f4",
 			"type":"text",
 			"text":"Waves in complex medium",
-			"styleAttributes":{},
-			"x":-440,
-			"y":160,
+			"styleAttributes":{
+				"shape":"parallelogram",
+				"textAlign":"center",
+				"border":null
+			},
+			"x":-419,
+			"y":-41,
 			"width":193,
+			"height":103
+		},
+		{"id":"53b6c865b1c294f6","type":"file","file":"files/cherenkov_Si-Si02_loss=0pt1-betax=0pt1-different-frequency_velocity_cbar.png","x":-190,"y":444,"width":400,"height":208},
+		{
+			"id":"efd01d7f75d00da6",
+			"type":"text",
+			"text":"Moving medium",
+			"styleAttributes":{},
+			"x":-452,
+			"y":-350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1e12411e9361eb2f",
+			"type":"text",
+			"text":"Spin-photonic forces in non-reciprocal waveguides",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-111,
+			"width":420,
+			"height":70
+		},
+		{
+			"id":"9cb6e444ba9e05a6",
+			"type":"text",
+			"text":"Controlling Evanescent Waves",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e08ea460783b061",
+			"type":"text",
+			"text":"Gain in moving medium",
+			"styleAttributes":{},
+			"x":-910,
+			"y":-460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6645e07e93e28fcc",
+			"type":"text",
+			"text":"PT-symmetric spectral singularity",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d32d2fb782f7c196",
+			"type":"text",
+			"text":"Inter-regime interactions",
+			"styleAttributes":{},
+			"x":0,
+			"y":-740,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e0c69ffab11ed8a",
+			"type":"text",
+			"text":"Axial Super Resolution Evanescent Wave Tomography\n\n![[AxSET_set8-3_with_resolution_v2.png]]",
+			"styleAttributes":{},
+			"x":-1320,
+			"y":-1120,
+			"width":260,
+			"height":520
+		},
+		{
+			"id":"e64cd4761edb692c",
+			"type":"text",
+			"text":"**Cherenkov radiation** \n![[Cherenkov_Fields_in_time_domain_betaz=0pt5.gif]]",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":340,
+			"y":-140,
+			"width":425,
+			"height":443
+		},
+		{
+			"id":"afe3f41c5763123c",
+			"type":"text",
+			"text":"Spin properties in guided waves and beams",
+			"styleAttributes":{},
+			"x":-672,
+			"y":-140,
+			"width":304,
+			"height":60
+		},
+		{
+			"id":"57ae03fb79354b11",
+			"type":"text",
+			"text":"Gyrotropy governed absorption and scattering",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":273,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a34df3ce07bb87fd",
+			"type":"text",
+			"text":"Optical control of microwave devices\n\n![[LED_control_2frames.gif]]",
+			"styleAttributes":{},
+			"x":-752,
+			"y":-1020,
+			"width":300,
+			"height":340
+		},
+		{
+			"id":"3b2b7b74c86c9141",
+			"type":"text",
+			"text":"Microwave-to-optical seamless links",
+			"styleAttributes":{},
+			"x":1080,
+			"y":-630,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6aeb51f2cb9a3a09",
+			"type":"text",
+			"text":"Sub-wavelength spin-dependent absorption",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":444,
+			"width":400,
+			"height":60
+		},
+		{
+			"id":"1ff9fafc7f6c54de",
+			"type":"text",
+			"text":"Substrate integrated isolator",
+			"styleAttributes":{},
+			"x":-1060,
+			"y":640,
+			"width":360,
 			"height":60
 		}
 	],
 	"edges":[
 		{
-			"id":"fb56d3ae7849c5dd",
+			"id":"08af681164db07d7",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"0e05057a9c1925a8",
+			"fromSide":"left",
+			"toNode":"efd01d7f75d00da6",
+			"toSide":"right"
+		},
+		{
+			"id":"18485a7ea6bf9dc3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97d0e854ec22cd39",
 			"fromSide":"bottom",
-			"toNode":"b8cd0b024cfa3320",
+			"toNode":"53b6c865b1c294f6",
 			"toSide":"top"
 		},
 		{
-			"id":"f81ea97ac69b75d7",
+			"id":"64f9cf8c6c691739",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"0e05057a9c1925a8",
-			"fromSide":"bottom",
-			"toNode":"570f5ce0c05477f3",
-			"toSide":"top"
-		},
-		{
-			"id":"f0c1415638568285",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"b8cd0b024cfa3320",
 			"fromSide":"bottom",
 			"toNode":"ff3500211fcd83f4",
+			"toSide":"top"
+		},
+		{
+			"id":"07ebd8bf05d67e15",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ff3500211fcd83f4",
+			"fromSide":"left",
+			"toNode":"1733e00474518172",
+			"toSide":"right"
+		},
+		{
+			"id":"05d5c17f24dc1b45",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e64cd4761edb692c",
+			"fromSide":"bottom",
+			"toNode":"53b6c865b1c294f6",
+			"toSide":"top"
+		},
+		{
+			"id":"e04a3d4150538362",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e05057a9c1925a8",
+			"fromSide":"bottom",
+			"toNode":"e64cd4761edb692c",
+			"toSide":"top"
+		},
+		{
+			"id":"f02730d78140a393",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"efd01d7f75d00da6",
+			"fromSide":"bottom",
+			"toNode":"e64cd4761edb692c",
+			"toSide":"left"
+		},
+		{
+			"id":"158856e53b498a39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ff3500211fcd83f4",
+			"fromSide":"bottom",
+			"toNode":"97d0e854ec22cd39",
+			"toSide":"top"
+		},
+		{
+			"id":"83cd4311e71472a9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8e08ea460783b061",
+			"fromSide":"bottom",
+			"toNode":"97d0e854ec22cd39",
+			"toSide":"left"
+		},
+		{
+			"id":"f47871effabdffdd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"efd01d7f75d00da6",
+			"fromSide":"left",
+			"toNode":"8e08ea460783b061",
+			"toSide":"right"
+		},
+		{
+			"id":"e660c6425f721bf6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8e08ea460783b061",
+			"fromSide":"left",
+			"toNode":"6645e07e93e28fcc",
+			"toSide":"top"
+		},
+		{
+			"id":"16069188fa70cd98",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e05057a9c1925a8",
+			"fromSide":"bottom",
+			"toNode":"afe3f41c5763123c",
+			"toSide":"top"
+		},
+		{
+			"id":"a824ba363ec53953",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"efd01d7f75d00da6",
+			"fromSide":"bottom",
+			"toNode":"1e12411e9361eb2f",
+			"toSide":"top"
+		},
+		{
+			"id":"0300d5099595bbc5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"afe3f41c5763123c",
+			"fromSide":"left",
+			"toNode":"1e12411e9361eb2f",
+			"toSide":"right"
+		},
+		{
+			"id":"ee7e88de7553afa2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e05057a9c1925a8",
+			"fromSide":"top",
+			"toNode":"9cb6e444ba9e05a6",
+			"toSide":"bottom"
+		},
+		{
+			"id":"496e673c8ecc9791",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9cb6e444ba9e05a6",
+			"fromSide":"top",
+			"toNode":"8e0c69ffab11ed8a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d22587e6b2bfb494",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e05057a9c1925a8",
+			"fromSide":"top",
+			"toNode":"d32d2fb782f7c196",
+			"toSide":"bottom"
+		},
+		{
+			"id":"daef8e84d869e073",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d32d2fb782f7c196",
+			"fromSide":"right",
+			"toNode":"3b2b7b74c86c9141",
+			"toSide":"top"
+		},
+		{
+			"id":"9087fe32500a1478",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d32d2fb782f7c196",
+			"fromSide":"top",
+			"toNode":"a34df3ce07bb87fd",
+			"toSide":"top"
+		},
+		{
+			"id":"abc9b245d8d8a0e9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"afe3f41c5763123c",
+			"fromSide":"bottom",
+			"toNode":"6aeb51f2cb9a3a09",
+			"toSide":"top"
+		},
+		{
+			"id":"dea74cea8218fb4a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57ae03fb79354b11",
+			"fromSide":"bottom",
+			"toNode":"6aeb51f2cb9a3a09",
+			"toSide":"top"
+		},
+		{
+			"id":"b00fde6df6f4d005",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1733e00474518172",
+			"fromSide":"bottom",
+			"toNode":"411e934728a48db9",
+			"toSide":"top"
+		},
+		{
+			"id":"e6c2392ecf59c3d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"411e934728a48db9",
+			"fromSide":"bottom",
+			"toNode":"57ae03fb79354b11",
+			"toSide":"top"
+		},
+		{
+			"id":"c2757433b9348538",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97d0e854ec22cd39",
+			"fromSide":"bottom",
+			"toNode":"411e934728a48db9",
+			"toSide":"right"
+		},
+		{
+			"id":"ed94acc395fb58b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6aeb51f2cb9a3a09",
+			"fromSide":"bottom",
+			"toNode":"1ff9fafc7f6c54de",
 			"toSide":"top"
 		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{},
+		"startNode":"06b3bb2ad3888c15"
 	}
 }

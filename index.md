@@ -18,10 +18,10 @@ Office: Room no. R211, Dept. of E&ECE, IIT Kharagpur, 721302, India.
 My research delves at the interface optical physics and communication engineering. I explore fundamental properties of electromagnetic waves and its interaction with matter, to build next generation of communication technologies.  
 My current research interests are:
 
-- Reconfigurable microwave & mmWave components.
 - Electromagnetic wave interaction with complex media.
 - Non-reciprocity and non-reciprocal devices.
-
+- Reconfigurable microwave & mmWave components.
+- Microwave photonics: Microwave optical links, optical control of microwave devices. 
 
 ---
 

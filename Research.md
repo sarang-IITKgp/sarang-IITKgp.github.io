@@ -13,7 +13,7 @@ _**Page is currently under 'construction'**_
 
 Details of the current projects will be posted here.  
 
-![[Pasted image 20250707183352.png]]
+![[Overview.png]]
 
 
 ### Active areas of research
