@@ -2,16 +2,13 @@
 
 
 ### _Sarang Pendharker_
-
-
-![photo](https://sarang-iitkgp.github.io/files/photo.jpeg)
-
 Assistant Professor  
 [Department of Electronics & Electrical Communication Engineering](http://www.iitkgp.ac.in/department/EC/faculty/ec-sarang)  
 [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in/)
 Email: sarang[at]ece[dot]iitkgp[dot]ac[dot]in  
 Office: Room no. R211, Dept. of E&ECE, IIT Kharagpur, 721302, India.
 
+![photo](https://sarang-iitkgp.github.io/files/photo.jpeg)
 
 #### Research
 

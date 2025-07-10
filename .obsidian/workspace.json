@@ -187,16 +187,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3eeb788fd2452def",
+  "floating": {
+    "id": "e7396646e58d5a92",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9bea1b13dcfcf62d",
+        "type": "window",
+        "children": [
+          {
+            "id": "dcd31fc93a723c20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0bcd524093935843",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Resources.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Resources"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 142,
+        "width": 1024,
+        "height": 740,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0bcd524093935843",
   "lastOpenFiles": [
-    "Teaching.md",
-    "Research_details.md",
     "index.md",
     "Research.md",
+    "Research_details.md",
+    "Resources.md",
+    "Teaching.md",
     "Research_team.md",
     "().md",
     "Research_details.html",
-    "Resources.md",
     "research_details.html",
     "Teaching.html",
     "Resources.html",
