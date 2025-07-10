@@ -16,7 +16,7 @@ My current research interests are:
 - Seamless microwave-to-photonic links.
 - Coupled antenna systems. 
 
-More details are given on this [page](Research_details). 
+More details are given on this [page](Research_details.md). 
 # Publications
 ### Journal Papers
 
@@ -55,9 +55,11 @@ More details are given on this [page](Research_details).
 5. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “A novel T-shaped optically controlled microwave phase shifter,” IEEE International Conference on Microwaves, Communications, Antennas and Electronics Systems (COMCAS), Israel, pp.1-3, 7-9 Nov. 2011.
 6. Sarang Pendharker, R.K. Shevgaonkar and A.N. Chandorkar, “Optically Controlled Microwave Demultiplexer”, PHOTONICS 2010, IIT Guwahati, Dec. 2010, India.
 
-### Research team
+# Research team
 ##### Research scholars
 - Rajarshi Sen
 - Niloy Ghosh
 - Uma Mandal
 - Sansuma Baro
+##### Masters students
+(To be updated)
