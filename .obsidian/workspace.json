@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Research.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5be828747a108af6",
@@ -190,9 +189,15 @@
   },
   "active": "3eeb788fd2452def",
   "lastOpenFiles": [
-    "Teaching.md",
+    "Research_details.md",
     "Research.md",
+    "Research_team.md",
+    "().md",
+    "Teaching.md",
+    "Research_details.html",
     "index.md",
+    "Resources.md",
+    "research_details.html",
     "Teaching.html",
     "Resources.html",
     "Research.html",
@@ -203,8 +208,6 @@
     "lib/search-index.json",
     "lib/styles/main-styles.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/theme.css",
-    "lib/styles/other-plugins.css",
     "lib/media/favicon.png",
     "files/cherenkov_si-si02_loss=0pt1-betax=0pt1-different-frequency_velocity_cbar.png",
     "files/led_control_2frames.gif",
@@ -214,7 +217,6 @@
     "files/cherenkov_Si-Si02_loss=0pt1-betax=0pt1-different-frequency_velocity_cbar.png",
     "files/research_profile.jpeg",
     "files/project_area_theory+technology.png",
-    "Resources.md",
     "Resources.md.md",
     "Index.md"
   ]
