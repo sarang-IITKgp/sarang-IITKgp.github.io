@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research_details.md",
+                "file": "Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research_details"
+              "title": "Research"
             }
           },
           {
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5be828747a108af6",
@@ -189,10 +190,10 @@
   },
   "active": "3eeb788fd2452def",
   "lastOpenFiles": [
-    "Research.md",
-    "Teaching.md",
-    "Resources.md",
     "index.md",
+    "Resources.md",
+    "Teaching.md",
+    "Research.md",
     "Research_details.md",
     "Research_team.md",
     "().md",

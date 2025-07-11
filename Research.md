@@ -1,7 +1,8 @@
-[Main page](index.md) [Research](Research)  [Teaching](Teaching.md) [Resources](Resources.md) 
+|[Main page](index.md)  |    [Research](Research)   | [Teaching](Teaching.md) |  [Resources](Resources.md) |
 
 ### General research interests
-My research delves at the interface optical physics and communication engineering. I explore fundamental properties of electromagnetic waves and its interaction with matter, to build next generation of communication technologies.  
+My research delves at the interface optical physics and communication engineering. I explore fundamental properties of electromagnetic waves and its interaction with matter, to develop next generation technologies catering mostly for applications in communication. 
+
 My current research interests are:
 
 - Electromagnetic wave interaction with complex media.
@@ -16,7 +17,7 @@ My current research interests are:
 - Seamless microwave-to-photonic links.
 - Coupled antenna systems. 
 
-More details are given on this [page](Research_details.md). 
+Summarized in this [image](/files/Overview.png).
 # Publications
 ### Journal Papers
 
@@ -48,12 +49,35 @@ More details are given on this [page](Research_details.md).
 
 ### Conference Proceedings
 (To be upaded)
-1. Sarang Pendharker, R. K. Shevgaonkar, and A. N. Chandorkar, “Optically Controlled Bandgap Reconfigurable Structure using Photo-induced Periodic Stubs” in IEEE IMaRC 2013, Delhi, Dec 14-16, 2013.
-2. Sarang Pendharker, R.K. Shevgaonkar, and A.N. Chandorkar, “Photo-induced patch antenna for frequency and beam reconfiguration,” in International Conference on Fibre Optics and Photonics 2012, OSA Technical Digest (online) (Optical Society of America, 2012), paper T3A.4.
-3. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “Optically Controlled Frequency Switching Band Stop Filter,” IEEE Asia Pacific conference of Antennas and propagation (APCAP), Singapore, Aug. 27-29 2012.
-4. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “Optically Controlled Single-Fed Circular Polarization Switching Patch Antenna,” 2011 IEEE Indian Antenna Week (IAW), Kolkata, pp.1-3, 18-22 Dec. 2011.
-5. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “A novel T-shaped optically controlled microwave phase shifter,” IEEE International Conference on Microwaves, Communications, Antennas and Electronics Systems (COMCAS), Israel, pp.1-3, 7-9 Nov. 2011.
-6. Sarang Pendharker, R.K. Shevgaonkar and A.N. Chandorkar, “Optically Controlled Microwave Demultiplexer”, PHOTONICS 2010, IIT Guwahati, Dec. 2010, India.
+1. R. Sen, S. Pendharker, . Nonreciprocal Ferrite-Dielectric-Ferrite Waveguide with Unidirectional Power Flow. Asia-Pacific Microwave Conference (APMC) 2023,  Taiwan. [https://doi.org/10.1109/apmc57107.2023.10496274](https://doi.org/10.1109/apmc57107.2023.10496274). 
+2. R. Sen, S. Pendharker, "Gyrotropic confinement in gyromagnetic Medium-Encased dielectric structures," In Lecture notes in electrical engineering (pp. 73–80), 2024.  Photonics 2023, IISc Bangalore. [https://doi.org/10.1007/978-981-97-6164-7_9](https://doi.org/10.1007/978-981-97-6164-7_9). 
+3. R. Sen, S. Pendharker,  "Gyrotropy supported wave propagation in antiferromagnets,". Asia-Pacific Microwave Conference (APMC), 85–87. [https://doi.org/10.23919/apmc55665.2022.9999929](https://doi.org/10.23919/apmc55665.2022.9999929). Oral Presentation at APMC 2022, Yokohama, Japan.
+4. Sarang Pendharker, R. K. Shevgaonkar, and A. N. Chandorkar, “Optically Controlled Bandgap Reconfigurable Structure using Photo-induced Periodic Stubs” in IEEE IMaRC 2013, Delhi, Dec 14-16, 2013.
+5. Sarang Pendharker, R.K. Shevgaonkar, and A.N. Chandorkar, “Photo-induced patch antenna for frequency and beam reconfiguration,” in International Conference on Fibre Optics and Photonics 2012, OSA Technical Digest (online) (Optical Society of America, 2012), paper T3A.4.
+6. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “Optically Controlled Frequency Switching Band Stop Filter,” IEEE Asia Pacific conference of Antennas and propagation (APCAP), Singapore, Aug. 27-29 2012.
+7. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “Optically Controlled Single-Fed Circular Polarization Switching Patch Antenna,” 2011 IEEE Indian Antenna Week (IAW), Kolkata, pp.1-3, 18-22 Dec. 2011.
+8. Sarang Pendharker, R.K. Shevgaonkar, A.N. Chandorkar, “A novel T-shaped optically controlled microwave phase shifter,” IEEE International Conference on Microwaves, Communications, Antennas and Electronics Systems (COMCAS), Israel, pp.1-3, 7-9 Nov. 2011.
+9. Sarang Pendharker, R.K. Shevgaonkar and A.N. Chandorkar, “Optically Controlled Microwave Demultiplexer”, PHOTONICS 2010, IIT Guwahati, Dec. 2010, India.
+
+# Research details
+
+##### Wave matter interactions
+
+
+
+##### Seamless link
+
+
+
+##### Substrate integrated isolator
+
+
+
+
+##### Reconfigurable devices
+
+
+
 
 # Research team
 ##### Research scholars

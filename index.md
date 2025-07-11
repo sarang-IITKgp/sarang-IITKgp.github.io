@@ -1,4 +1,4 @@
-[Main page](index.md) [Research](Research) [Teaching](Teaching.md) [Resources](Resources.md)
+|[Main page](index.md)  |    [Research](Research)   | [Teaching](Teaching.md) |  [Resources](Resources.md) |
 
 
 ### _Sarang Pendharker_
